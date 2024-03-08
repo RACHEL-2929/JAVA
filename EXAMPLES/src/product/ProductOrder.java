@@ -1,4 +1,4 @@
-package Product;
+package product;
 
 public class ProductOrder {
     String productName;//상품명

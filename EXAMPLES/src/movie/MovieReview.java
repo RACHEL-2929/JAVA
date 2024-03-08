@@ -1,4 +1,4 @@
-package Movie;
+package movie;
 
 public class MovieReview {
     String title;//영화제목
