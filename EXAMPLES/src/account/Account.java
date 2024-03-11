@@ -1,5 +1,6 @@
 package account;
 
+//
 public class Account {
     private int balance;//잔액(데이터는 private로 숨기기)
 
