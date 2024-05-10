@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SOYEON CHOI</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
-- 🌱 I’m currently learning **JAVA, Python, C**
+- 🌱 I’m currently learning **JAVA, C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RACHEL-2929/S0Ye0n/](https://github.com/RACHEL-2929/S0Ye0n/)
 
