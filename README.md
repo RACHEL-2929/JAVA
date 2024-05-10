@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JAVA, C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RACHEL-2929/S0Ye0n/](https://github.com/RACHEL-2929/S0Ye0n/)
+- 👨‍💻 All of my projects are available at [https://github.com/RACHEL-2929/](https://github.com/RACHEL-2929/S0Ye0n/)
 
 - 📫 How to reach me **sts06154@gmail.com**
 
